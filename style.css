@@ -1,5 +1,7 @@
 html {
     font-size: 10px;
+    background: url('./drumming.jpg') bottom center;
+    background-size: cover;
   }
   
   body,html {
